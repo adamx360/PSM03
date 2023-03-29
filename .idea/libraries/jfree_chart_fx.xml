@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="jfree.chart.fx" type="repository">
+    <properties maven-id="org.jfree:org.jfree.chart.fx:2.0.1" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/org.jfree.chart.fx-2.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jfreechart-1.5.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javafx-controls-15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javafx-controls-15-win.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javafx-graphics-15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javafx-graphics-15-win.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/org.jfree.fxgraphics2d-2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javafx-base-15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javafx-base-15-win.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javafx-swing-15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javafx-swing-15-win.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
